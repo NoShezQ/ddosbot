@@ -1,0 +1,2 @@
+# ddosbot
+ddos bot script
